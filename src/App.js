@@ -1,13 +1,9 @@
-import Index from "./Components/InputWithFunction";
-import Counter from "./Components/counterApp";
+import Blog from "./Components/Blog";
 
 function App() {
   return (
     <>
-      {/* <Index /> */}
-      <Counter />
-
-     
+      <Blog />
     </>
   );
 }
